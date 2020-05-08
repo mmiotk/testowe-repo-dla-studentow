@@ -3,5 +3,7 @@
 2. Przemysław Guzek
 3. Aleksander Matusiak
 4. Grzegorz Grubich
-5. Michał Czerwiak
-
+5. Damian Kijanczuk
+6. Kamil Romiński
+7. Mikołaj Kalata
+8. Michał Czerwiak
