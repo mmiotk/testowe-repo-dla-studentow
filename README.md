@@ -5,3 +5,4 @@
 4. Grzegorz Grubich
 5. Damian Kijanczuk
 6. Kamil Romiński
+7. Mikołaj Kalata
