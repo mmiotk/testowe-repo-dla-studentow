@@ -6,3 +6,4 @@
 5. Damian Kijanczuk
 6. Kamil Romiński
 7. Mikołaj Kalata
+8. Michał Czerwiak
